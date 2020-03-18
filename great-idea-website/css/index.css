@@ -64,3 +64,187 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.site-nav {
+	display: inline-block;
+	margin: 35px;
+	margin-left: 45px;
+	height: 30px;
+	padding: 5px;
+}
+
+.nav-link {
+	color: grey;
+	text-decoration: none;
+	margin-right: 56px;
+}
+
+.logo {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 30px;
+	margin-right: 40px;
+}
+
+header {
+	display: inline-block;
+	vertical-align: top;
+	height: 400px;
+	width: 525px;
+}
+
+header h1 {
+	font-size: 75px;
+	text-align: center;
+	margin-top: 75px;
+	margin-left: 100px;
+	width: 350px;
+}
+
+.header-button {
+	font-size: 14px;
+	border: solid;
+	border-width: 1px;
+	width: 150px;
+	text-align: center;
+	padding: 5px;
+	margin-left: 200px;
+}
+
+.header-img {
+	display: inline-block;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+hr {
+	margin-top: 40px;
+	margin-left: 50px;
+	margin-bottom: 20px;
+	width: 875px;
+}
+
+.top-left-content {
+	display: inline-block;
+	width: 425px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 10px;
+}
+
+.top-left-content h4 {
+	text-decoration: bold;
+	display: inline;
+	vertical-align: top;
+}
+
+.top-left-content p {
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.top-right-content {
+	display: inline-block;
+	width: 425px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.top-right-content h4 {
+	text-decoration: bold;
+	display: inline;
+	vertical-align: top;
+}
+
+.top-right-content p {
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.middle-img {
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 50px;
+	margin-bottom: 20px;
+}
+
+.bottom-left-content {
+	display: inline-block;
+	width: 280px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 10px;
+}
+
+.bottom-left-content h4 {
+	text-decoration: bold;
+	display: inline;
+	vertical-align: top;
+}
+
+.bottom-left-content p {
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.bottom-middle-content {
+	display: inline-block;
+	width: 280px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.bottom-middle-content h4 {
+	text-decoration: bold;
+	display: inline;
+	vertical-align: top;
+}
+
+.bottom-middle-content p {
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.bottom-right-content {
+	display: inline-block;
+	width: 280px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.bottom-right-content h4 {
+	text-decoration: bold;
+	display: inline;
+	vertical-align: top;
+}
+
+.bottom-right-content p {
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.contact h4 {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+
+.contact p {
+	margin-left: 50px;
+}
+
+footer {
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 400px;
+	height: 150px;
+	width: 200px;
+}
